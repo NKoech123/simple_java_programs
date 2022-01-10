@@ -1,1 +1,1 @@
-# A taste of simple java programs
+# The good taste of java
